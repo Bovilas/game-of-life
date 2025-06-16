@@ -1,0 +1,13 @@
+|01/08/23 - 11:15PM| Program is loaded. 
+|01/08/23 - 11:16PM| Game progress is saved. 
+|01/08/23 - 11:16PM| Program has returned 0. 
+|01/08/23 - 11:16PM| Exit log:  Game ran for 0 minutes and 59 seconds 
+|01/08/23 - 11:27PM| Program is loaded. 
+|01/08/23 - 11:28PM| Game progress is saved. 
+|01/08/23 - 11:28PM| Program has returned 0. 
+|01/08/23 - 11:28PM| Exit log:  Game ran for 0 minutes and 47 seconds 
+|01/08/23 - 11:28PM| Program is loaded. 
+|01/08/23 - 11:28PM| Player has chosen to load save. 
+|01/08/23 - 11:28PM| Exit log:  Game ran for 0 minutes and 17 seconds 
+|02/10/23 - 10:34PM| Program is loaded. 
+|02/10/23 - 10:35PM| Exit log:  Game ran for 1 minutes and 59 seconds 

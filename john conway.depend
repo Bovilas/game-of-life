@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1670181702 source:c:\users\povilas\desktop\john conway\main.c
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+
+1673198782 source:c:\users\povilas\desktop\john conway 1.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"conway_header.h"
+
+1673132644 source:c:\users\povilas\desktop\john conway 1.1\conway_header.c
+	<stdio.h>
+	<stdlib.h>
+
+1673130502 c:\users\povilas\desktop\john conway 1.1\conway_header.h
+	<stdio.h>
+	<stdlib.h>
+
+1673210427 source:c:\users\povil\desktop\john_conway_1.1\john conway 1.1\conway_header.c
+	<stdio.h>
+	<stdlib.h>
+
+1673210427 source:c:\users\povil\desktop\john_conway_1.1\john conway 1.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"conway_header.h"
+
+1673210427 c:\users\povil\desktop\john_conway_1.1\john conway 1.1\conway_header.h
+	<stdio.h>
+	<stdlib.h>
+
+1673210427 source:c:\users\povil\desktop\pp\john_conway_1.1\john conway 1.1\conway_header.c
+	<stdio.h>
+	<stdlib.h>
+
+1673210427 source:c:\users\povil\desktop\pp\john_conway_1.1\john conway 1.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"conway_header.h"
+
+1673210427 c:\users\povil\desktop\pp\john_conway_1.1\john conway 1.1\conway_header.h
+	<stdio.h>
+	<stdlib.h>
+
